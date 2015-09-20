@@ -1,5 +1,57 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>11-5-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="3"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Cav Benoit</a> is looking good with 5 points in 4 games last week. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="10"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Vojtech Uhlir</a> is looking steady with 4 points in 4 games last week. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="83"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Mike Charbonneau</a> is looking good with 5 points in 4 games last week. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2376"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Allie Smith</a> is looking steady with 3 points in 4 games last week. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2383"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Eddie Vallin</a> is looking good with a 5 game point scoring streak with 1 game goalstreak. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2387"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chase Yaremchuk</a> is looking good with 5 points in 4 games last week. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2401"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tommy Bigelow</a> is looking steady with 4 points in 4 games last week. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="8"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Miren Makwana</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="34"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ethan Heraite</a> hasn't got a chance to start in the last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="162"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Victor Hughart</a> has lost his sights and is now 8 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="742"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alvis Jurkevics</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2395"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Meghan Sparks</a> has lost his sights and is now 5 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="7"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Dan Sgambelluri</a> remains sidelined with knee injury. 
+
+<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>11-5-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="7"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Dan Sgambelluri</a> injured.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\2.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="7"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Dan Sgambelluri</a> (STP) suffered knee injury during the game in an incident with <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="217"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Remi Foxwilleau</a> (BRK).
+
+He is expected to be sidelined for a couple of days. <i>Nothing serious, but I do remember who hit me and caused the injury</i>, he murmured as he grimaced in pain.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>4-5-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
  </tr>
  <tr>
