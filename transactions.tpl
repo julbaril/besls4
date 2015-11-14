@@ -1,6 +1,24 @@
 <table width=90% border=1>
  <tr>
   <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>6-11-2003 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T4"; return true' onMouseOut='window.status="No_id_here_now"; return true'>California Golden Eagles</a> called up <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="86"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Cam Jameson</a> from Regina Ravens</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>6-11-2003 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T4"; return true' onMouseOut='window.status="No_id_here_now"; return true'>California Golden Eagles</a> called up <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="121"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ulises Darko</a> from Regina Ravens</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>6-11-2003 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T4"; return true' onMouseOut='window.status="No_id_here_now"; return true'>California Golden Eagles</a> sent down <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="61"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Adam L'Italien</a> to Regina Ravens</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>6-11-2003 </b></font></td>
   <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T1"; return true' onMouseOut='window.status="No_id_here_now"; return true'>St. Paul Bucksaws</a> sent down <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="178"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Guillermo Cervantes</a> to San Antonio Rollers</font></td>
  </tr>
 </table>
