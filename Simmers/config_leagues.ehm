@@ -1,0 +1,20 @@
+#Option1 - Use links in news, 1=normal link to profile, 0=no links
+ 1
+#Option2 - Play title music, 1=yes, 2=no (use 2 if starting the game causes DVD player or other programs to start)
+ 1
+#Option3 - Trading frequency (10...500, 60 is a good for normal purposes)
+ 10
+#Option4 - Use pre-defined career wins for top active goaltenders (1=yes, 0=no)
+ 1
+#Option5 - Nationalities in draft (out of 1000 created) CAN/USA/RUS/CZE/SWE/FIN/BLR/SVK/NOR/GER/Other/ITA/AUT/LAT/UKR/SLV/SUI/POL/FRA/JAP/
+ 367/142/125/107/59/80/10/52/0/21/0/0/7/3/3/2/17/2/2/2/
+#Option6 - Disable All-Star game (for non-NHL conversions, 1=disable, 0=enable)
+ 1
+#Option7 - not used
+ 0
+#Option8 - not used
+ 0
+#Option9 - not used
+ 0
+#Option10 - not used
+ 0
