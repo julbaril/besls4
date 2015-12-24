@@ -1,5 +1,41 @@
 <table width=90% border=1>
  <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>14-1-2003 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T11"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Stockholm Aeros</a> sent down <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2380"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Johan Lindgren</a> to Gothenburg Royals</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>14-1-2003 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T11"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Stockholm Aeros</a> called up <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="263"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Michael Nortan</a> from Gothenburg Royals (e)</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>14-1-2003 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T11"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Stockholm Aeros</a> placed <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2388"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Wynter Philip</a> on waivers.</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>14-1-2003 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T11"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Stockholm Aeros</a> sent down <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2388"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Wynter Philip</a> to Gothenburg Royals</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>14-1-2003 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T41"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gothenburg Royals</a> fastsigned free agent <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2282"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Darby Bedell</a> to a one year contract</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>14-1-2003 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T13"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Florida Panthers</a> signed  <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="28"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Caleb Christopherson</a> to a 3 year extension</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
   <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>13-1-2003 </b></font></td>
   <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T3"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brooklyn Admirals</a> called up <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="775"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Lorne Pearl</a> from Ontario-Michigan Superiors (e)</font></td>
  </tr>
