@@ -1,5 +1,42 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>16-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Users\Santi\Desktop\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+No-one is especially hot at the moment.<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Users/Santi/Desktop/Eastside Hockey Manager/profile.html" onMouseOver='window.status="20"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Konstantin Kuehn</a> has lost his sights and is now 7 games without a goal. 
+
+<a href="file://C|/Users/Santi/Desktop/Eastside Hockey Manager/profile.html" onMouseOver='window.status="139"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Niko Mironenko</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Users/Santi/Desktop/Eastside Hockey Manager/profile.html" onMouseOver='window.status="170"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matthew Boragina</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Users/Santi/Desktop/Eastside Hockey Manager/profile.html" onMouseOver='window.status="191"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Joe Iusi</a> has lost his sights and is now 8 games without a goal. 
+
+<a href="file://C|/Users/Santi/Desktop/Eastside Hockey Manager/profile.html" onMouseOver='window.status="274"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Rob Sattler</a> is looking out of place on the ice despite notching 2 points last week. 
+
+<a href="file://C|/Users/Santi/Desktop/Eastside Hockey Manager/profile.html" onMouseOver='window.status="772"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christopher Wong</a> has lost his sights and is now 8 games without a goal. 
+
+<a href="file://C|/Users/Santi/Desktop/Eastside Hockey Manager/profile.html" onMouseOver='window.status="849"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Sebastian Blay</a> has been chilly and allowed 10 goals in 2 games. 
+
+<a href="file://C|/Users/Santi/Desktop/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2369"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jakhangir Orucov</a> has lost his sights and is now 7 games without a goal. 
+
+<a href="file://C|/Users/Santi/Desktop/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2390"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ryan Spiller</a> has played 11 games without a goal. 
+
+<a href="file://C|/Users/Santi/Desktop/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2412"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kavan DuBois</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Users/Santi/Desktop/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2416"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ryan Crappa</a> has lost his sights and is now 10 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>15-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="141"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Janis Skribans</a> injured.</font></td>
  </tr>
  <tr>
