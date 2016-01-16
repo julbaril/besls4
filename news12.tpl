@@ -1,5 +1,41 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>19-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="280"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Giedrius Pradkelis</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T12"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Vancouver Cascades</a> center <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="280"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Giedrius Pradkelis</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of La-la-land, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="280"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Giedrius Pradkelis</a>, was originally signed as a free agent to the NHL. He has appeared in 115 NHL games during his career, notching 1 goals and adding 3 assists along with 10 penalty minutes. The 25 year old center has not yet played for the Vancouver Cascades this season. He has played 36 games with the Duluth-Superior Northerners this season, totalling 12+27=39 with 117 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>19-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="992"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christopher Alexander</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T12"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Vancouver Cascades</a> goaltender <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="992"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christopher Alexander</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of USA, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="992"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christopher Alexander</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, booking 0 career shutouts and allowing 0 goals. The 25 year old goaltender has not yet played for the Vancouver Cascades this season. He has played 1 games with the Duluth-Superior Northerners this season, totalling 0+0=0 with 0 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>18-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Team captain meets with <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="214"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Mininni</a></font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Team captain <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="268"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Troy Speelman</a> called a short meeting with <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="214"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Mininni</a> after practice today to discuss some issues that have affected his play. <i>I have to take the brunt of this</i>, said <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="214"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Mininni</a> as he left the ice. <i>My play has not been up to snuff and if I'm not contributing more, I have to work harder.</i></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>18-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="989"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matt Roy</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T12"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Vancouver Cascades</a> defenseman <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="989"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matt Roy</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Canada, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="989"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matt Roy</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 25 year old defenseman has not yet played for the Vancouver Cascades this season. He has played 35 games with the Duluth-Superior Northerners this season, totalling 3+5=8 with 50 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>16-2-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
  </tr>
  <tr>

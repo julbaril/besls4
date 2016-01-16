@@ -1,5 +1,41 @@
 <table width=90% border=1>
  <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>19-2-2003 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T18"; return true' onMouseOut='window.status="No_id_here_now"; return true'>New York Rangers</a> signed  <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="414"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jeffrey Easland</a> to a 5 year extension</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>19-2-2003 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T24"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Pittsburgh Penguins</a> signed  <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="576"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Niclas Pernfors</a> to a 1 year extension and assigned him to <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T54"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Wilkes-Barre Penguins</a></font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>19-2-2003 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T11"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Stockholm Aeros</a> called up <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2388"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Wynter Philip</a> from Gothenburg Royals (e)</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>18-2-2003 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T26"; return true' onMouseOut='window.status="No_id_here_now"; return true'>St. Louis Blues</a> signed  <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="622"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jean-Philippe Limoges</a> to a 3 year extension</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>18-2-2003 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T16"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Montreal Canadiens</a> signed  <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="1083"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Philippe Demontigny</a> to a 2 year extension</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
+  <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>18-2-2003 </b></font></td>
+  <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T14"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Los Angeles Kings</a> signed  <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2041"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jim Kutcy</a> to a 2 year extension</font></td>
+ </tr>
+</table>
+<table width=90% border=1>
+ <tr>
   <td align=left bgcolor=#99CCFF width=15%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>18-2-2003 </b></font></td>
   <td align=left bgcolor=#CFE7FF width=85%><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T3"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brooklyn Admirals</a> called up <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="779"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Andrei Venachenko</a> from Ontario-Michigan Superiors (e)</font></td>
  </tr>
