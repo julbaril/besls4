@@ -1,5 +1,70 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>17-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2346"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Santi Piñeiro</a> reaches career high !</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2346"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Santi Piñeiro</a> marked a new career high in points with 46 after scoring in tonights game against Quebec Voyageurs on a feed by <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="176"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Miika Kemppinen</a>. <i>There's no 'I' in team and we have to get everyone playing the same system. It's not enough to just play a solid 20 or 40 minutes of hockey - you have to play 60. Hey, you know what? I forgot the question</i>, he said as camera flashes went off.<br><br> A native of La-la-land, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2346"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Santi Piñeiro</a>, was originally signed as a free agent to the NHL. He has appeared in 251 NHL games during his career, notching 63 goals and adding 85 assists along with 35 penalty minutes. The 24 year old center has played 43 games with the Brooklyn Admirals this season, totalling 25+21=46 with 15 PIM.
+</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>17-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="70"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Alden Bustos</a> injured.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\2.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Alden Bustos of Ontario-Michigan Superiors suffered  injury during tonights minorleague game against the Moncton Hawks.
+
+He is expected to be sidelined for a couple of days . <i>Small things like this happen to guys almost every game, except this time it happened to me</i>, was his answer to a reporter question after the game.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>16-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="52"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tyler O'Meara</a> is looking good with 2 points in 1 games last week. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="176"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Miika Kemppinen</a> is looking good with 2 points in 1 games last week. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="51"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Hans Largemann</a> has played 32 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="76"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matt Friday</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="142"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Henri Lukkarinen</a> has lost his sights and is now 16 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="144"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ville Savolainen</a> has lost his sights and is now 27 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="227"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Trevor Cardinal</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="251"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Fredrik Hammarbäck</a> has lost his sights and is now 11 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="776"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Chris Doherty</a> has been a healthy scratch in his last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2353"; return true' onMouseOut='window.status="No_id_here_now"; return true'>David Becker</a> hasn't got a chance to start in the last five games. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>16-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2262"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Andy Bridgers</a> resumes light training.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Ontario-Michigan Superiors center <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2262"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Andy Bridgers</a> has resumed light training after his  injury and is listed day to day.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>14-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="779"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Andrei Venachenko</a> frustrated</font></td>
  </tr>
  <tr>

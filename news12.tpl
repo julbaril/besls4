@@ -1,5 +1,54 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>17-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="987"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Erik Stoll</a> speaks up.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="987"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Erik Stoll</a> is disappointed in the team tactics after having not played in the last five games. He wants more icetime.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>16-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+No-one is especially hot at the moment.<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="15"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Stephan Glapa</a> has lost his sights and is now 17 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="249"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Johan Bengtsson</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="276"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jason Placido</a> has lost his sights and is now 10 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2326"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matt Fennell</a> is sliding on a 24 game streak without registering a single point. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2343"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Maddy Steele</a> has lost his sights and is now 10 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2379"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Lucas Rayvals</a> has lost his sights and is now 15 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2424"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Buttana</a> has lost his sights and is now 10 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2427"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Tyler Bosse</a> is looking out of place on the ice despite notching 2 points last week. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>16-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="280"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Giedrius Pradkelis</a> resumes full training.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Duluth-Superior Northerners center <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="280"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Giedrius Pradkelis</a> has resumed full training after his  injury.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>15-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="288"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Brandon McGraw</a> resumes full training.</font></td>
  </tr>
  <tr>

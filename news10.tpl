@@ -1,5 +1,99 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>17-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Team captain meets with <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="232"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Davis Precelis</a></font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Team captain <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="220"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jára Cimrman</a> called a short meeting with <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="232"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Davis Precelis</a> after practice today to discuss some issues that have affected his play. <i>I have to take the brunt of this</i>, said <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="232"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Davis Precelis</a> as he left the ice. <i>My play has not been up to snuff and if I'm not contributing more, I have to work harder.</i></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>17-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="748"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gianni Bianchi</a> speaks up.</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="748"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gianni Bianchi</a> is disappointed in the team tactics after averaging 5 minutes in the last five games. He wants more icetime.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>17-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="220"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jára Cimrman</a> reaches career high !</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="220"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jára Cimrman</a> marked a new career high in goals with  26 tallies after scoring in tonights game against Brooklyn Admirals on a feed by <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="862"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jessica Steig</a>. <i>Hopefully one day this puck will end up in the Hall of Fame</i>, he commented to the media.<br><br> A native of Czech, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="220"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jára Cimrman</a>, was originally signed as a free agent to the NHL. He has appeared in 242 NHL games during his career, notching 82 goals and adding 87 assists along with 35 penalty minutes. The 25 year old center has played 34 games with the Quebec Voyageurs this season, totalling 26+21=47 with 14 PIM.
+</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>16-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="940"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Reiner Emrich</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T10"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Quebec Voyageurs</a> defenseman <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="940"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Reiner Emrich</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of USA, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="940"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Reiner Emrich</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 25 year old defenseman has not yet played for the Quebec Voyageurs this season. He has played 43 games with the Moncton Hawks this season, totalling 5+16=21 with 60 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>16-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="943"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matthew Rodier</a> frustrated</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T10"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Quebec Voyageurs</a> defenseman <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="943"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matthew Rodier</a> feels frustrated about his position in the organization. He feels he's good enough to be a regular player for the team and wonders why the organization still considers him a minor league player.<br><br> A native of Canada, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="943"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matthew Rodier</a>, was originally signed as a free agent to the NHL. He has appeared in 100 NHL games during his career, notching 0 goals and adding 0 assists along with 0 penalty minutes. The 25 year old defenseman has not yet played for the Quebec Voyageurs this season. He has played 43 games with the Moncton Hawks this season, totalling 1+7=8 with 119 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>16-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Player of the week: <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="220"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jára Cimrman</a> (C)</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\8.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>NHL has awarded <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="220"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jára Cimrman</a> (C) of <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/teamprofile.html" onMouseOver='window.status="T10"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Quebec Voyageurs</a> as Player Of The Week
+
+He registered 2 goals and 2 assists for 4 points in 2 games last week.
+
+He also had 1 game winning goal.<br><br> A native of Czech, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="220"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jára Cimrman</a>, was originally signed as a free agent to the NHL. He has appeared in 242 NHL games during his career, notching 81 goals and adding 87 assists along with 35 penalty minutes. The 25 year old center has played 34 games with the Quebec Voyageurs this season, totalling 25+21=46 with 14 PIM.</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>16-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="220"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jára Cimrman</a> is looking red hot with a 6 game point streak. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="221"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Matt Kinney</a> is looking good with a 5 game point scoring streak with 1 game goalstreak. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="40"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ayaz Karim</a> has lost his sights and is now 9 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="64"; return true' onMouseOut='window.status="No_id_here_now"; return true'>T-Jay Harris</a> has lost his sights and is now 8 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="94"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Dustin Klavon</a> has lost his sights and is now 8 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="119"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Rocky Nijjer</a> has lost his sights and is now 6 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="202"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jesse Burk</a> has lost his sights and is now 9 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="218"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Sim Baril</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="223"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Julien Baril</a> has played 24 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="748"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Gianni Bianchi</a> has lost his sights and is now 41 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>14-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Team captain clashes with <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="128"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Mike Laine</a></font></td>
  </tr>
  <tr>

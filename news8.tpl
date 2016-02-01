@@ -1,5 +1,47 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>16-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Team captain meets with <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2410"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kamil Sikora</a></font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000>Team captain <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2376"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Allie Smith</a> called a short meeting with <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2410"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kamil Sikora</a> after practice today to discuss some issues that have affected his play. <i>I have to take the brunt of this</i>, said <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2410"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kamil Sikora</a> as he left the ice. <i>My play has not been up to snuff and if I'm not contributing more, I have to work harder.</i></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>16-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+No-one is especially hot at the moment.<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="88"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Douglas Neveu</a> has lost his sights and is now 22 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="147"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Noaabi Luklev</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="155"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Marek Pala</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="208"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Félix Lévesque</a> has lost his sights and is now 6 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="897"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Travis Tilford</a> hasn't got a chance to start in the last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2345"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Kevin Astbury</a> has played 32 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2366"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Noah Hanley</a> hasn't got a chance to start in the last five games. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2376"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Allie Smith</a> has lost his sights and is now 6 games without a goal. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="134"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Steveo Reynolds</a> remains sidelined with groin injury. 
+
+<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>15-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="208"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Félix Lévesque</a> speaks up.</font></td>
  </tr>
  <tr>

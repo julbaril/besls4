@@ -1,5 +1,46 @@
 <table width=535 border=0>
  <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>17-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="30"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christian Larose</a> reaches career high !</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\7.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="30"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christian Larose</a> marked a new career high in assists with 18 assists after assisting in tonights game against Providence Puffins on a goal by <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="25"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Lopez</a>. <i>The pass just found the right guy, what more can I say</i>, he joked.<br><br> A native of Canada, <a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="30"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Christian Larose</a>, was originally signed as a free agent to the NHL. He has appeared in 240 NHL games during his career, notching 54 goals and adding 57 assists along with 68 penalty minutes. The 25 year old left wing has played 40 games with the Denver Wildcats this season, totalling 23+18=41 with 21 PIM.
+</font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
+  <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>16-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Weekly team report</font></td>
+ </tr>
+ <tr>
+  <td align=left bgcolor=#FFFFFF valign=top><img src="C:\Program Files (x86)\Eastside Hockey Manager\pictures\icons\0.jpg" width=50 hspace=10 vspace=2 align=left valign=top></td><td align=left bgcolor=#FFFFFF valign=top><font face=" Verdana, Arial, Helvetica, sans - serif" size=1 color=#000000><b>Who's hot</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="11"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Will Telfer</a> is looking good with a 3 game point scoring streak with 1 game goalstreak. 
+
+<br><br><b>Who's cold</b><br><br>
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="25"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Lopez</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="32"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Jay Kosier</a> has lost his sights and is now 9 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="181"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Fredd Da Silva</a> has lost his sights and is now 38 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="219"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Walter Lawrence</a> has lost his sights and is now 5 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="253"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Ilya Sarin</a> has lost his sights and is now 10 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2341"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Valtteri ðBorgå</a> has played 18 games without a goal. 
+
+<a href="file://C|/Program Files (x86)/Eastside Hockey Manager/profile.html" onMouseOver='window.status="2347"; return true' onMouseOut='window.status="No_id_here_now"; return true'>Johannes ðBorgå</a> hasn't got a chance to start in the last five games. 
+
+<br><br><b>Trainer's room</b><br><br>
+
+No injuries at the moment.<br><br></font><br></td>
+ </tr>
+ <tr><td colspan=2><hr></td></tr>
+</table>
+<table width=535 border=0>
+ <tr>
   <td align=left bgcolor=#FFFFFF width=17%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000><b>15-3-2003 </b></font></td><td bgcolor=#FFFFFF width=83%><font face=" Verdana, Arial, Helvetica, sans - serif" size=2 color=#000000>Extra practise results</font></td>
  </tr>
  <tr>
